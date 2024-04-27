@@ -1,0 +1,1 @@
+{"n_front_dense_FE": 2, "n_front_dense_PE": 2, "n_front_dense_RxDec": 2, "state_width": 8, "n_epochs": 1, "n_additional_epochs": 0, "CFO_coef": 1, "SNR": 1, "J_list": [2.773130178451538], "time_taken": 4.761947393417358, "bit_accuracy": 0.06875}
